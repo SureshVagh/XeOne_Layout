@@ -1,15 +1,229 @@
-body,html{
+body,
+html {
     height: 100%;
     width: 100%;
     margin: 0;
 }
-*{
+
+* {
     box-sizing: border-box;
 }
 
-.xe-one-main{
+.xe-one-main {
     height: 100%;
     width: 100%;
-    background-color: #9bd230;
+    background-color: #713475;
     position: relative;
+}
+
+.menusection {
+    width: 100%;
+    padding: 30px 0px;
+}
+
+.menucontainer {
+    width: 80%;
+    margin: 10px auto;
+    overflow: auto;
+}
+
+.menupart {
+    width: 30%;
+    float: left;
+    overflow: auto;
+}
+
+.icon {
+    width: 25%;
+    float: left;
+    padding: 15px 10px;
+}
+
+.menucontent {
+    height: 35px;
+    width: 100%;
+    background-color: white;
+}
+
+.logo {
+    width: 40%;
+    float: left;
+}
+
+.logocontainer {
+    width: 100%;
+    padding: 15px 120px;
+}
+
+.logocontent {
+    height: 40px;
+    width: 100%;
+    background-color: white;
+}
+
+.sidemenubar {
+    height: 30px;
+    width: 50px;
+    top: 60px;
+    right: 30px;
+    position: absolute;
+    background-color: white;
+}
+
+.xeonecontent {
+    width: 40%;
+    margin: 10px auto;
+    padding: 10px;
+}
+
+.title {
+    height: 40px;
+    width: 70%;
+    background-color: white;
+    margin: 20px auto;
+}
+
+.line1 {
+    height: 60px;
+    width: 80%;
+    margin: auto;
+    background-color: white;
+}
+
+.line2 {
+    height: 30px;
+    width: 100%;
+    margin: auto;
+    background-color: white;
+}
+
+.lernmorecontent {
+    width: 10%;
+    height: 35px;
+    background-color: #00bcd4;
+    margin: 50px auto;
+}
+
+.sidemenucontainer {
+    width: 20px;
+    top: 300px;
+    right: 50px;
+    position: absolute;
+}
+
+.sidemenu {
+    height: 20px;
+    width: 100%;
+    margin: 10px auto;
+    background-color: white;
+}
+
+.design {
+    width: 100%;
+    overflow: auto;
+}
+
+.design1 {
+    height: 585px;
+    width: 50%;
+    float: left;
+    background-color: #f2eeef;
+}
+
+.design2 {
+    width: 50%;
+    float: left;
+}
+
+.design2container {
+    width: 80%;
+    margin: 130px auto;
+}
+
+.designtag {
+    height: 30px;
+    width: 40%;
+    background-color: #00bcd4;
+    margin: auto;
+}
+
+.designtitle {
+    height: 70px;
+    width: 80%;
+    background-color: #212331;
+    margin: 15px auto;
+}
+
+.designparagraph {
+    height: 110px;
+    width: 100%;
+    background-color: #A5A5A5;
+    margin: 30px auto;
+}
+
+.designworks {
+    height: 30px;
+    width: 40%;
+    background-color: #00bcd4;
+    margin: 40px auto;
+}
+
+.workprocessmain {
+    width: 100%;
+    background-color: #00cacc;
+}
+
+.workprocesscontainer {
+    width: 80%;
+    margin: auto;
+    padding: 120px 0px;
+}
+
+.workprocess-title {
+    height: 60px;
+    width: 50%;
+    background-color: white;
+    margin: auto;
+}
+
+.work-task-container {
+    width: 100%;
+    padding: 30px 0px 0px;
+}
+
+.work-task-content {
+    width: 100%;
+    margin: 10px auto 0px;
+}
+
+.work-content-part {
+    width: 100%;
+    overflow: auto;
+}
+
+.task {
+    width: 20%;
+    float: left;
+    padding: 15px 10px 0px;
+}
+
+.taskcontent1 {
+    height: 60px;
+    width: 50%;
+    margin: 0px auto 10px;
+    background-color: white;
+}
+
+.taskcontent2 {
+    height: 10px;
+    width: 30%;
+    margin: 20px auto;
+    background-color: white;
+}
+
+.taskcontent3 {
+    height: 45px;
+    width: 80%;
+    margin: 0px auto;
+    background-color: white;
 }
