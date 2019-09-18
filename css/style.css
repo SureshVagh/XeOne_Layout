@@ -1,0 +1,15 @@
+body,html{
+    height: 100%;
+    width: 100%;
+    margin: 0;
+}
+*{
+    box-sizing: border-box;
+}
+
+.xe-one-main{
+    height: 100%;
+    width: 100%;
+    background-color: #9bd230;
+    position: relative;
+}
