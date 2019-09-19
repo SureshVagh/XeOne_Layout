@@ -227,3 +227,276 @@ html {
     margin: 0px auto;
     background-color: white;
 }
+
+.creativemain {
+    width: 100%;
+    background-color: #f4f4f6;
+}
+
+.creativewidth {
+    width: 80%;
+    padding: 100px 0px;
+    margin: auto;
+    overflow: auto;
+
+}
+
+.creativecontainer {
+    width: 60%;
+    margin: 0px auto 70px;
+}
+
+.herostitle {
+    height: 20px;
+    width: 40%;
+    background-color: #00BCD4;
+    margin: auto;
+}
+
+.creativetitle {
+    height: 50px;
+    width: 70%;
+    background-color: #212331;
+    margin: 10px auto;
+}
+
+.creativeperegraph {
+    height: 80px;
+    width: 100%;
+    background-color: #A5A5A5;
+    margin: auto;
+}
+
+.creative-content-part {
+    width: 100%;
+    overflow: auto;
+}
+
+.creative {
+    width: 33.33%;
+    float: left;
+    padding: 15px;
+
+}
+
+.creative-com {
+    width: 100%;
+    padding: 10px 5px 0px;
+    background-color: white;
+}
+
+.creativecontent1 {
+    height: 300px;
+    width: 95%;
+    margin: auto;
+    background-color: #eeedf2;
+}
+
+.creativecontent2 {
+    height: 100px;
+    width: 95%;
+    margin: auto;
+    background-color: #00cecc;
+}
+
+.featuremain {
+    width: 100%;
+}
+
+.featurewidth {
+    width: 80%;
+    padding: 100px 0px;
+    margin: auto;
+    overflow: auto;
+}
+
+.featurepartone {
+    width: 50%;
+    float: left;
+}
+
+.featuretag {
+    height: 30px;
+    width: 30%;
+    background-color: #00BCD4;
+}
+
+.featuretitle {
+    height: 70px;
+    width: 80%;
+    background-color: #212331;
+    margin: 20px auto 40px 0px;
+}
+
+.featureperegraph {
+    height: 100px;
+    width: 90%;
+    background-color: black;
+    margin: 0px auto 40px 0px;
+}
+
+.feature-blog-title {
+    height: 30px;
+    width: 25%;
+    background-color: #643094;
+}
+
+.featureparttwo {
+    height: 330px;
+    width: 50%;
+    float: left;
+    background-color: #00e4ce;
+}
+
+.creative-work {
+    width: 100%;
+    background-color: #f6f6f6;
+}
+
+.creative-work-part {
+    width: 100%;
+    overflow: auto;
+}
+
+.work {
+    width: 50%;
+    float: left;
+    padding: 10px;
+
+}
+
+.work-com {
+    width: 100%;
+    padding: 15px 5px;
+    background-color: white;
+}
+
+.workcontent1 {
+    height: 600px;
+    width: 95%;
+    margin: auto;
+    background-color: #eeedf2;
+}
+
+.view-all-work {
+    height: 30px;
+    width: 20%;
+    background-color: #643094;
+    margin: 20px auto;
+}
+
+.mobile-application-main {
+    width: 100%;
+}
+
+.mobile-application-width {
+    width: 80%;
+    margin: auto;
+    padding: 100px 0px;
+}
+
+.mobile-part-con {
+    width: 100%
+}
+
+
+.mobile-part-1 {
+    width: 35%;
+    float: left;
+    overflow: auto;
+    padding: 0px 10px;
+}
+
+.mobile-con-container {
+    width: 100%;
+    overflow: auto;
+}
+
+.mobile-con-1 {
+    width: 50%;
+    float: left;
+    margin: 40px 0px;
+}
+
+.mobile-con-11 {
+    height: 30px;
+    width: 70%;
+    background-color: #222222;
+    margin: 0px 0px 0px auto;
+}
+
+.mobile-con-12 {
+    height: 70px;
+    width: 100%;
+    background-color: #A5A5A5;
+    margin: 15px 0px 0px;
+}
+
+.mobile-con-2 {
+    width: 50%;
+    float: left;
+    padding: 20px;
+    margin: 40px 0px;
+}
+
+.mobile-con-21 {
+    height: 70px;
+    width: 100%;
+    background-color: #00bcd4;
+}
+
+.mobile-part-2 {
+    height: 585px;
+    width: 30%;
+    float: left;
+    padding: 0px 10px;
+    background-color: #5d3885;
+}
+
+.mobile-part-3 {
+    width: 35%;
+    float: left;
+    overflow: auto;
+    padding: 0px 10px;
+}
+
+.experience-main {
+    width: 100%;
+    background-color: #713475;
+}
+
+.experience-width {
+    width: 80%;
+    padding: 120px 0px;
+    overflow: auto;
+    margin: auto;
+}
+
+.experience-part-one {
+    width: 50%;
+    float: left;
+    margin: 5px auto;
+    padding: 10px;
+}
+
+.experience-title {
+    height: 50px;
+    width: 100%;
+    background-color: white;
+    margin: 0px auto 25px;
+}
+
+.experience-peregraph {
+    height: 50px;
+    width: 100%;
+    background-color: white;
+    margin: 50px auto 16px;
+}
+
+.experience-part-two {
+    width: 50%;
+    float: left;
+    margin: 5px auto;
+    padding: 10px;
+
+}
