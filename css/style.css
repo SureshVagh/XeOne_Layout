@@ -498,5 +498,38 @@ html {
     float: left;
     margin: 5px auto;
     padding: 10px;
+}
 
+
+.experience-task-content {
+    width: 100%;
+    margin: 0px auto ;
+    overflow: auto;
+}
+
+.experience {
+    width: 33.33%;
+    float: left;
+    padding: 15px 10px 0px;
+}
+
+.experience1 {
+    height: 35px;
+    width: 30%;
+    margin: 0px auto;
+    background-color: white;
+}
+
+.experience2 {
+    height: 40px;
+    width: 70%;
+    margin: 30px auto 10px;
+    background-color: white;
+}
+
+.experience3 {
+    height: 20px;
+    width: 80%;
+    margin: 0px auto;
+    background-color: white;
 }
