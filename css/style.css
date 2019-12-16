@@ -503,7 +503,7 @@ html {
 
 .experience-task-content {
     width: 100%;
-    margin: 0px auto ;
+    margin: 0px auto;
     overflow: auto;
 }
 
@@ -532,4 +532,283 @@ html {
     width: 80%;
     margin: 0px auto;
     background-color: white;
+}
+
+.packagesmain {
+    width: 100%;
+    background-color: #f4f4f6;
+}
+
+.packageswidth {
+    width: 80%;
+    padding: 100px 0px;
+    margin: auto;
+    overflow: auto;
+
+}
+
+.packages-content-part {
+    width: 100%;
+    overflow: auto;
+}
+
+.packages {
+    width: 50%;
+    float: left;
+    padding: 15px;
+
+}
+
+.packages-com {
+    width: 100%;
+    height: 650px;
+    background-color: #00bcd4;
+}
+
+.packages-com-sec {
+    width: 100%;
+    height: 650px;
+    background-color: #643094;
+}
+
+.videomain {
+    width: 100%;
+    background-color: #967319;
+
+}
+
+.videowidth {
+    width: 80%;
+    padding: 100px 0px;
+    margin: auto;
+    overflow: auto;
+}
+
+.videocontainer {
+    width: 100%;
+}
+
+.video-con {
+    height: 30px;
+    width: 250px;
+    background-color: white;
+}
+
+.video-con1 {
+    height: 60px;
+    width: 350px;
+    background-color: white;
+    margin: 15px 0px;
+}
+
+.video-con2 {
+    height: 40px;
+    width: 150px;
+    background-color: #00bcd4;
+}
+
+.people-said-main {
+    width: 100%;
+    background-color: white;
+}
+
+.people-content-part {
+    width: 100%;
+    overflow: auto;
+}
+
+.people {
+    width: 33.33%;
+    float: left;
+    padding: 10px;
+}
+
+.people-con-1 {
+    width: 95%;
+    margin: auto;
+    background-color: #f6f6f6;
+    padding: 15px;
+}
+
+.people-1 {
+    height: 170px;
+    width: 85%;
+    background-color: #b2b2b2;
+    margin: 40px auto;
+}
+
+.people-2 {
+    height: 25px;
+    width: 50%;
+    margin: 30px auto 10px;
+    background-color: #282a37;
+}
+
+.people-2_1 {
+    height: 15px;
+    width: 30%;
+    margin: auto;
+    background-color: #39cbde;
+}
+
+.envato-main {
+    width: 100%;
+    background-color: white;
+
+}
+
+.envato-width {
+    width: 80%;
+    padding: 100px 0px;
+    margin: auto;
+}
+
+.envato-content-part {
+    width: 100%;
+    overflow: auto;
+}
+
+.Envato {
+    width: 20%;
+    float: left;
+    padding: 25px;
+
+}
+
+.envato-com {
+    width: 100%;
+    height: 60px;
+    background-color: #b9b9b9;
+}
+
+.designworks-last {
+    height: 30px;
+    width: 40%;
+    background-color: #643094;
+    margin: 40px auto;
+}
+
+.design2-last {
+    width: 50%;
+    float: left;
+    background-color: #f6f6f6;
+}
+
+.contact-main {
+    width: 100%;
+}
+
+.contact-width {
+    width: 80%;
+    padding: 150px 0px;
+    margin: auto;
+    overflow: auto;
+}
+
+
+.contact-tag {
+    height: 30px;
+    width: 10%;
+    background-color: #00BCD4;
+}
+
+.contact-title {
+    height: 70px;
+    width: 35%;
+    background-color: black;
+    margin: 15px auto 60px 0px;
+}
+
+.contact-part-one {
+    width: 50%;
+    float: left;
+}
+
+.contact-peregraph {
+    height: 100px;
+    width: 90%;
+    background-color: #212331;
+    margin: 0px 0px 16px;
+}
+
+.contact-part-1 {
+    width: 50%;
+    float: left;
+    margin: 40px 0px 0px;
+}
+
+.address-tag {
+    height: 25px;
+    width: 40%;
+    background-color: black;
+    margin: 0px 0px 25px;
+}
+
+.address {
+    height: 40px;
+    width: 95%;
+    background-color: #A5A5A5;
+    margin: 0px 0px 15px;
+}
+
+.direction-tag {
+    height: 25px;
+    width: 40%;
+    background-color: #00bcd4;
+}
+
+.contact-part-2 {
+    width: 50%;
+    float: left;
+    margin: 40px 0px 0px;
+}
+
+.contact-part-two {
+    width: 50%;
+    float: left;
+    overflow: auto;
+}
+
+.f-name-part {
+    width: 50%;
+    float: left;
+    overflow: auto;
+    margin: 20px 0px;
+}
+
+.f-name {
+    height: 30px;
+    width: 60%;
+    background-color: #a5a5a5;
+    float: left;
+}
+
+.s-name-part {
+    width: 50%;
+    float: left;
+    overflow: auto;
+    margin: 20px 0px;
+}
+
+.s-name {
+    height: 30px;
+    width: 60%;
+    background-color: #a5a5a5;
+    float: left;
+}
+
+.msg-part {
+    height: 30px;
+    width: 30%;
+    background-color: #a5a5a5;
+    float: left;
+    margin: 20px 0px 150px;
+}
+
+.submit-btn {
+    height: 45px;
+    width: 98%;
+    background-color: #00bcd4;
+    float: left;
+    margin: 85px auto 0px;
 }
